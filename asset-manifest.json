@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/color-selection/static/css/main.a83553a9.chunk.css",
-    "main.js": "/color-selection/static/js/main.b7e1755c.chunk.js",
-    "main.js.map": "/color-selection/static/js/main.b7e1755c.chunk.js.map",
+    "main.css": "/color-selection/static/css/main.a20bca3d.chunk.css",
+    "main.js": "/color-selection/static/js/main.ebbaee23.chunk.js",
+    "main.js.map": "/color-selection/static/js/main.ebbaee23.chunk.js.map",
     "runtime-main.js": "/color-selection/static/js/runtime-main.d24527e6.js",
     "runtime-main.js.map": "/color-selection/static/js/runtime-main.d24527e6.js.map",
-    "static/js/2.42a3ec42.chunk.js": "/color-selection/static/js/2.42a3ec42.chunk.js",
-    "static/js/2.42a3ec42.chunk.js.map": "/color-selection/static/js/2.42a3ec42.chunk.js.map",
+    "static/js/2.1b413523.chunk.js": "/color-selection/static/js/2.1b413523.chunk.js",
+    "static/js/2.1b413523.chunk.js.map": "/color-selection/static/js/2.1b413523.chunk.js.map",
     "index.html": "/color-selection/index.html",
-    "static/css/main.a83553a9.chunk.css.map": "/color-selection/static/css/main.a83553a9.chunk.css.map",
-    "static/js/2.42a3ec42.chunk.js.LICENSE.txt": "/color-selection/static/js/2.42a3ec42.chunk.js.LICENSE.txt",
+    "static/css/main.a20bca3d.chunk.css.map": "/color-selection/static/css/main.a20bca3d.chunk.css.map",
+    "static/js/2.1b413523.chunk.js.LICENSE.txt": "/color-selection/static/js/2.1b413523.chunk.js.LICENSE.txt",
     "static/media/1.14da5d6b.jpg": "/color-selection/static/media/1.14da5d6b.jpg",
+    "static/media/1.2d4f46df.jpg": "/color-selection/static/media/1.2d4f46df.jpg",
     "static/media/1.c44ef47c.jpg": "/color-selection/static/media/1.c44ef47c.jpg",
     "static/media/2.0813e644.jpg": "/color-selection/static/media/2.0813e644.jpg",
     "static/media/2.52d612bf.jpg": "/color-selection/static/media/2.52d612bf.jpg",
+    "static/media/2.e66afe34.jpg": "/color-selection/static/media/2.e66afe34.jpg",
     "static/media/3.545691d4.jpg": "/color-selection/static/media/3.545691d4.jpg",
+    "static/media/3.791f4779.jpg": "/color-selection/static/media/3.791f4779.jpg",
     "static/media/3.a034d444.jpg": "/color-selection/static/media/3.a034d444.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d24527e6.js",
-    "static/js/2.42a3ec42.chunk.js",
-    "static/css/main.a83553a9.chunk.css",
-    "static/js/main.b7e1755c.chunk.js"
+    "static/js/2.1b413523.chunk.js",
+    "static/css/main.a20bca3d.chunk.css",
+    "static/js/main.ebbaee23.chunk.js"
   ]
 }
