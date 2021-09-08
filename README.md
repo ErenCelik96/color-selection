@@ -1,3 +1,5 @@
+![colorSelect](https://user-images.githubusercontent.com/81647285/132583579-a0daf66c-fd72-4334-8bc1-2fa54a6be9ff.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
